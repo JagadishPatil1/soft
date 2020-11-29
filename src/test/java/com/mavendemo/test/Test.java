@@ -15,7 +15,7 @@ public class Test {
 		driver.get("https://google.com");
 		driver.close();
 		System.out.println("Test passed");
-		System.out.println("New change made");
+		System.out.println("New change made");   
 	}
 }
 
